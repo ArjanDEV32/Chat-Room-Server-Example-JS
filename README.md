@@ -6,7 +6,7 @@ node js would be required in order to run this example
 ```
 npm i ws-chat-room
 ```
-
+## Run
 ```
 node server.js
 ```
