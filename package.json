@@ -1,0 +1,27 @@
+{
+  "name": "ws-chat-room",
+  "version": "1.0.0",
+  "description": "A simple example of a chat room server in JavaScript",
+  "main": "server.js",
+  "devDependencies": {},
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArjanDEV32/Chat-Room-Server-Example-JS.git"
+  },
+  "author": "https://github.com/ArjanDEV32",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArjanDEV32/Chat-Room-Server-Example-JS/issues"
+  },
+  "homepage": "https://github.com/ArjanDEV32/Chat-Room-Server-Example-JS#readme"
+}
